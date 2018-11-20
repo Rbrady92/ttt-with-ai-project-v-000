@@ -8,14 +8,14 @@ class Player
   # def get
   #   token.one
   # end
-end 
+end
 
 # class Token1
 #   def one
 #     blah
 #   end
 # end
-# 
+#
 # class Token2
 #   def one
 #     blach
